@@ -11,7 +11,7 @@ This app is designed follwing a real world senerio with given designs, and I had
 
 [![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/errea/Car-deal-finder-Backend)
 [![Github Issues](https://img.shields.io/badge/Github%20-Issues-red)](https://github.com/errea/Car-deal-finder-Backend/issues)
-[![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/errea/Hello-world-rails-react/pull/1)
+[![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/errea/Car-deal-finder-Backend/pull/1)
 [![Frontend API Repo](https://img.shields.io/badge/Frontend-%20Repo-purple)](https://github.com/errea/Car-Deal-Finder)
 [![API DOCS](https://img.shields.io/badge/API-Documentation%50-yellow)]()
 
